@@ -4,7 +4,3 @@
 
 layout: home
 ---
-
-<h3> uhh this is my poorly created blog welcome guys
-
-i post things like PCB development, 3D printing, programming and stuff. </h3>

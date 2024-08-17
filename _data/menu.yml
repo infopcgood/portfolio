@@ -2,12 +2,11 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: info
+  - title: <h4>hello guys, welcome to my blog!</h4>
     entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
-      - title: github repo
-        url: https://github.com/riggraz/no-style-please
-      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
+      - title: i post PCB dev, 3D modeling and stuff
+      - title: 17 y/o, lives in South Korea
+      - title: "find me on <a href='https://x.com/info_the_proot'>Twitter</a> or <a href='https://github.com/infopcgood'>GitHub</a>"
 
   - title: all posts
     post_list:
@@ -25,14 +24,8 @@ entries:
 
   - title: rss
     url: feed.xml
-  
-  - title: another list
+
+  - title: Acknowledgements
     entries:
-      - title: with subitems
-        entries:
-          - title: with subsubitems
-          - title: example page
-            url: about
-  - title: PRO TIP
-    entries:
-      - title: to edit this menu, edit _data/menu.yml file
+      - title: "Powered by <a href='https://jekyllrb.com/'>Jekyll</a> and <a href='https://netlify.com'>Netlify</a>"
+      - title: "Using the <a href='https://rubygems.org/gems/no-style-please'>'no-style-please'</a> theme by <a href='https://github.com/riggraz'>Riccardo Graziosi</a>"
