@@ -34,4 +34,4 @@ end
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 # Theming
-gem "no-style-please"
+gem "no-style-please", "~> 0.4.7"
