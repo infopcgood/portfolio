@@ -33,5 +33,8 @@ end
 # do not have a Java counterpart.
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
+# Parser
+gem "kramdown-parser-gfm"
+
 # Theming
 gem "no-style-please", "~> 0.4.7"
