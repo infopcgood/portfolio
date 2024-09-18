@@ -2,11 +2,16 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: <h4>hello guys, welcome to my blog!</h4>
+  - title: <b>hello guys, welcome to my blog!</b>
     entries:
       - title: i post PCB dev, 3D modeling and stuff
       - title: 17 y/o, lives in South Korea
       - title: "find me on <a href='https://x.com/info_the_proot'>Twitter</a> or <a href='https://github.com/infopcgood'>GitHub</a>"
+
+  - title: open source software contributions
+    entries:
+      - title: SlimeVR Translation Contributor (ko_KR)
+      - title: ProtonDB Translator (ko_KR)
 
   - title: all posts
     post_list:
@@ -15,17 +20,10 @@ entries:
       show_more_text: See archive...
       show_more_url: archive.html
 
-  - title: posts by category
-    post_list:
-      category: example2
-      show_more: true
-      show_more_text: See more posts...
-      show_more_url: example2-archive.html
-
   - title: rss
     url: feed.xml
 
   - title: Acknowledgements
     entries:
-      - title: "Powered by <a href='https://jekyllrb.com/'>Jekyll</a> and <a href='https://netlify.com'>Netlify</a>"
-      - title: "Using the <a href='https://rubygems.org/gems/no-style-please'>'no-style-please'</a> theme by <a href='https://github.com/riggraz'>Riccardo Graziosi</a>"
+      - title: "Powered by Jekyll and Netlify"
+      - title: "Using the <a href='https://rubygems.org/gems/no-style-please'>'no-style-please'</a> theme by Riccardo Graziosi"
