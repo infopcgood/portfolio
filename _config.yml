@@ -16,10 +16,10 @@ timezone: Asia/Seoul
 
 title: info's Blog # the main title
 
-tagline: Long term development stuff here! # it will display as the subtitle
+tagline: Gallery & long term development stuff here! # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  Hi! I'm info. In this blog I post long term development projects and some thoughts.
+  Hi! I'm info. In this blog I post long term development projects and some pictures.
   Lighter content like daily life will be posted on Twitter. Thanks for visiting!
 
 # Fill in the protocol & hostname for your site.

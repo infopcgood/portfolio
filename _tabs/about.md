@@ -4,6 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
+<img src="avatar.jpg" width="100px" /> <img src="avatar2.jpg" width="100px" /> <img src="avatar3.jpg" width="100px" /><br/>
 Hi! I'm `info`. I'm Korean 🇰🇷, and I'm currently 18 as of September 2025. I'm a boy and my pronouns are he/him.
 
 I'm mainly interested in DIY, programming, and furries, and my dream is to become a software engineer. You can find me on GitHub as [`infopcgood`](https://github.com/infopcgood).
